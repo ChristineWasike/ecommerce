@@ -1,5 +1,5 @@
 # Ecommerce
-This is a simple grocery store application that shows differnt fruits one can purschase, their cost and whether or not they are in stock.
+A Kotlin-based project designed to provide a seamless experience for browsing and managing grocery items. This application demonstrates core programming concepts, clean code structure, and an intuitive user interface, making it ideal for both practical use and learning purposes.
 
 ## Play Store
 The demo of the app can be found [here](https://play.google.com/store/apps/details?id=com.spongey.ecommerce)
